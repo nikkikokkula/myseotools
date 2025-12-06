@@ -22,8 +22,13 @@ My SEO Tools is a modern AI-powered SEO assistant that helps marketers, bloggers
 
 ---
 
-### 📸 Preview (Add Screenshot here)
-> _Coming Soon! Add your app screenshot here once deployed._
+### 📸 Preview 
+<img width="1920" height="1080" alt="page1" src="https://github.com/user-attachments/assets/ec9354f3-7bea-4c16-b3ce-23878799d212" />
+<img width="1920" height="1080" alt="toolspage2" src="https://github.com/user-attachments/assets/5a23f2f7-7840-403a-95bc-f7eb775942b2" />
+<img width="1920" height="1080" alt="toolspage3" src="https://github.com/user-attachments/assets/b8e6cd4c-8d20-41be-a89b-f8afda7d53e4" />
+
+
+
 
 ---
 
