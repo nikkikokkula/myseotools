@@ -2,19 +2,48 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🧠 My SEO Tools — AI Powered SEO Toolkit
 
-This contains everything you need to run your app locally.
+My SEO Tools is a modern AI-powered SEO assistant that helps marketers, bloggers, and website owners generate high-quality SEO content in seconds using Google Gemini.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1LlMr4PR0qyJDFTIa676xK8VoOBdSnWrP
+### 🚀 Features
+✔ AI Keyword Research  
+✔ Meta Title & Description Generator  
+✔ Blog Topic & Outline Ideas  
+✔ On-Page SEO Suggestions  
+✔ Content Optimization  
+✔ Fast & Lightweight (Vite + TypeScript)
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+### 🛠 Tech Stack
+| Technology | Purpose |
+|------------|---------|
+| React + TypeScript | Frontend UI |
+| Vite | Fast build & dev server |
+| Google Gemini API | AI generation |
+| CSS | Minimal Styling |
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 📸 Preview (Add Screenshot here)
+> _Coming Soon! Add your app screenshot here once deployed._
+
+---
+
+### 💻 Run Locally
+
+```bash
+# Clone Repo
+git clone https://github.com/nikkikokkula/myseotools
+
+cd myseotools
+
+# Install dependencies
+npm install
+
+# Add your Gemini API Key in `.env.local`
+GEMINI_API_KEY=your_api_key_here
+
+# Start
+npm run dev
