@@ -9,11 +9,10 @@ const __dirname = path.dirname(__filename);
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // 1. BASE URL: Critical for GitHub Pages to load assets correctly
-  base: '/myseotools/',
+  // For Vercel, app is at root, so base should be "/"
+  base: '/', // you can also completely remove this line
   resolve: {
     alias: {
-      // 2. PATH ALIAS: Fixes imports using "@/" to point to the "src" directory
       '@': path.resolve(__dirname, './src'),
     },
   },
